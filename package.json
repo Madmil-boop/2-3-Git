@@ -1,0 +1,22 @@
+{
+  "name": "2-3-git",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Madmil-boop/2-3-Git#readme",
+  "bugs": {
+    "url": "https://github.com/Madmil-boop/2-3-Git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madmil-boop/2-3-Git.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "Node.js",
+  "scripts": {
+    "test": "node Node.js"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
